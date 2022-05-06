@@ -3,7 +3,7 @@ package com.examen.domain;
 import java.util.ArrayList;
 
 public class Baraja {
-    private ArrayList<Carta>;
+    private ArrayList<Carta> cartas;
     private final int  NUM_CARTAS = 52;
 
     public Baraja() {

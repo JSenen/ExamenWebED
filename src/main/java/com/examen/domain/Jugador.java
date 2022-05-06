@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Jugador {
     private String nombre;
-    private ArrayList<Carta>;
+    private ArrayList<Carta> cartas;
     private int puntos;
 
     public Jugador(String nombre) {
